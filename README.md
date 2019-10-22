@@ -1,2 +1,2 @@
-# Layout-Lkinter
-Um esquema de Layout feito em Python através do Lkinter para futuros projetos. Esse repositório foi criado para salvar diferentes estruturas e orientar futuros projetos.
+# Layouts-Lkinter
+Esquemas de Layout feitos em Python através do Lkinter. Esse repositório foi criado para salvar diferentes estruturas e orientar futuros projetos.
